@@ -35,5 +35,5 @@ Feel free to change it up !
 I want to see how this project can grow! I hope you all have fun messing around and make your own version by adding your own features.
 
 ### Notes:
-> Requires the turtle module inorder to run the GUI
+> Requires the "turtle" module inorder to run the GUI
 
