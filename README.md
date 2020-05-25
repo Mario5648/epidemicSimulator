@@ -2,14 +2,14 @@
 ### Simulate what an epidemic may look like with custom inputs (infection radius, infection length, number of people, etc)
 
 ### Overview
-This project was inspired by the SIR's Model.
-S:Susceptible
-I:Infectious
-R:Recovered
+This project was inspired by the SIR's Model: 
+S:Susceptible,
+I:Infectious,
+R:Recovered.
 
-Susceptible - People are vulnerable to the virus
-Infectious - People who are currently carriers
-Recovered - People who have recovered from the virus(In this simulation to keep it simple people who are recovered are immune from the virus)
+Susceptible - People are vulnerable to the virus.
+Infectious - People who are currently carriers.
+Recovered - People who have recovered from the virus.(In this simulation to keep it simple people who are recovered are immune from the virus)
 
 
 
