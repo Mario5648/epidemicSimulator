@@ -8,7 +8,6 @@ Feel free to change it up !
 
 
 
-Here how it currently looks!
 
 ### Social Distancing Simulation
 
