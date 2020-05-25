@@ -10,6 +10,6 @@ Feel free to change it up !
 
 Here how it currently looks!
 
-![Image of socialDistancingSim ](C:\Users\mario\Desktop\SocialDist.png)
+![Image of socialDistancingSim ](https://github.com/Mario5648/epidemicSimulator/blob/master/SocialDist.PNG?raw=true)
 
 
