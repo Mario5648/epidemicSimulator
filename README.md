@@ -36,4 +36,6 @@ I want to see how this project can grow! I hope you all have fun messing around 
 
 ### Notes:
 > Requires the "turtle" module inorder to run the GUI
+> Requires the "matplotlib" module to graph your data
+> Python 3 
 
