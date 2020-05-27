@@ -17,7 +17,8 @@ Recovered - People who have recovered from the virus.(In this simulation to keep
 Feel free to change it up !
 
 
-
+### Run The Simulation
+> To Run the simulation you must run the simulationMain.py
 
 ### Social Distancing Simulation
 
